@@ -1,3 +1,5 @@
 Change 1 – commit with message as “Change1 in File1”
 
 Change 2 – commit with message as “Change2 in File1”
+
+ChangeChange 3 - Commit with message as "Change 3 in TestFile"
